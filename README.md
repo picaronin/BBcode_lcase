@@ -1,5 +1,5 @@
 # BBcode lcase
-With this BBcode for phpBB the actual transformation of the selected text is achieved Uppercase to Lowercase.
+With this BBcode for phpBB the actual transformation of the selected text is achieved since Uppercase to Lowercase.
 
 ### BBCode usage:
 ```
